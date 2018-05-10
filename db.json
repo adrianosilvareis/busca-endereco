@@ -1,0 +1,133 @@
+{
+  "enderecos": [
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 1
+    },
+    {
+      "cep": "29017-050",
+      "logradouro": "Rua Cristóvão Alvarenga",
+      "complemento": "",
+      "bairro": "Forte São João",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "cep": "29017-050",
+      "logradouro": "Rua Cristóvão Alvarenga",
+      "complemento": "",
+      "bairro": "Forte São João",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 5
+    },
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 6
+    },
+    {
+      "cep": "29017-050",
+      "logradouro": "Rua Cristóvão Alvarenga",
+      "complemento": "",
+      "bairro": "Forte São João",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 7
+    },
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 8
+    },
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 9
+    },
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "cep": "29027-422",
+      "logradouro": "Rua Padre Emílio Miotti",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "localidade": "Vitória",
+      "uf": "ES",
+      "unidade": "",
+      "ibge": "3205309",
+      "gia": "",
+      "id": 16
+    }
+  ]
+}
